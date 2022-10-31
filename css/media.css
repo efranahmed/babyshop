@@ -1,0 +1,143 @@
+@media (min-width: 320px) and (max-width: 575px) { 
+/* common css  */
+
+/* common css end  */
+
+
+/* ===== header start ===== */
+
+/* header top starrt */
+#header .main_logo{
+  font-size: 30px;
+}
+#header_top{
+  height: 100px;
+}
+#header_top p{
+  line-height: 25px;
+  text-align: left !important;
+}
+/* header top end */
+
+/* ===== banner start ===== */
+#banner form{
+  margin-top: 10px;
+}
+#banner a {
+margin-top: 5px;
+}
+/* main header end */
+/* ===== header end ===== */
+
+/* banner bg part  */
+#banner .banner_bg{
+  padding: 25px 10px;
+  margin-top: 10px;
+}
+#banner .banner_bg h2{
+  font-size: 22px;
+}
+#banner .banner_bg h1 {
+  font-size: 38px;
+  width: auto;
+  line-height: 50px;
+  margin-bottom: 10px;
+}
+#banner .banner_bg p {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+/* banner feature */
+#banner .best_features {
+  padding: 0;
+}
+#banner .best_features .item {
+  margin-bottom: 15px;
+}
+/* ===== banner end ===== */
+
+
+/* ===== google start ===== */
+#google .item_1 {
+  padding: 30px;
+  margin-bottom: 10px;
+}
+#google .item_2 {
+  padding: 30px;
+}
+
+/* ===== Today’s Best Deals start ===== */
+#best_deals h6 {
+  font-size: 22px;
+  margin: 50px 0 15px 0;
+}
+#best_deals .main {
+  margin-bottom: 40px;
+}
+#best_deals .main .item {
+  width: 100%;
+  margin-bottom: 10px;
+}
+/* ===== Today’s Best Deals end ===== */
+
+/* ===== apple start ===== */
+#apple .item_1 {
+  padding: 30px;
+  margin-bottom: 10px;
+}
+#apple .item_2 {
+  padding: 30px;
+}
+/* ===== apple end ===== */
+
+/* another strat  */
+#another .item_1 {
+  padding: 30px;
+  margin-bottom: 10px;
+}
+#another .item_2 {
+  padding: 30px;
+}
+/* another end  */
+
+/* reality start  */
+#reality {
+  margin: 30px 0;
+}
+#reality .item_1 {
+  padding: 30px;
+  margin-bottom: 10px;
+}
+#reality .item_2 {
+  padding: 30px;
+}
+/* search end social  start  */
+#ss{
+  padding: 20px 0;
+  margin-bottom: 30px;
+}
+#ss ul {
+  text-align: center;
+  margin-left: 0;
+  margin-top: 10px;
+}
+/* search end social  end  */
+
+/* Footer start */
+#footer h4{
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+#footer p {
+  font-size: 15px;
+ }
+ #footerbottom{
+  margin:0;
+  margin-bottom: 10px;
+  }
+  #footerbottom p{
+    margin-left: 0px;
+  }
+  /* Footer end */
+}
